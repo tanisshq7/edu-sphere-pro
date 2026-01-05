@@ -594,49 +594,14 @@ function addSampleData() {
     const sampleStudents = [
         {
             id: '1',
-            name: 'Alex Johnson',
-            rollNo: 'CSE2021001',
+            name: 'Tanisshq M',
+            rollNo: '714023105053',
             department: 'Computer Science & Engineering',
             year: '3',
-            email: 'alex.johnson@university.edu',
-            phone: '+1 (555) 123-4567'
+            email: 'mtanisshq7@gmail.com',
+            phone: '+91 9345733566'
         },
-        {
-            id: '2',
-            name: 'Maria Garcia',
-            rollNo: 'MBBS2021002',
-            department: 'MBBS - General Medicine',
-            year: '2',
-            email: 'maria.garcia@medschool.edu',
-            phone: '+1 (555) 234-5678'
-        },
-        {
-            id: '3',
-            name: 'David Chen',
-            rollNo: 'ARCH2021003',
-            department: 'B.Arch - Architecture',
-            year: '4',
-            email: 'david.chen@design.edu',
-            phone: '+1 (555) 345-6789'
-        },
-        {
-            id: '4',
-            name: 'Sarah Williams',
-            rollNo: 'BA2021004',
-            department: 'BA English Literature',
-            year: '1',
-            email: 'sarah.williams@arts.edu',
-            phone: '+1 (555) 456-7890'
-        },
-        {
-            id: '5',
-            name: 'James Wilson',
-            rollNo: 'BBA2021005',
-            department: 'BBA - Business Administration',
-            year: '3',
-            email: 'james.wilson@business.edu',
-            phone: '+1 (555) 567-8901'
-        }
+        
     ];
     
     // Only add sample data if no students exist
